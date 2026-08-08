@@ -70,8 +70,6 @@ flowchart TD
 
 ## Documentation Structure
 
-The detailed documentation will be organized into the following sections:
-
 1. **[Introduction and Project Scope](docs/01-introduction.md)**
 2. **[Technologies and Core Concepts](docs/02-technologies-and-concepts.md)**
 3. **[Laboratory Environment and Planning](docs/03-environment-and-planning.md)**
@@ -83,7 +81,7 @@ The detailed documentation will be organized into the following sections:
 9. **[Troubleshooting and Issues](docs/09-troubleshooting.md)**
 10. **[Lessons Learned and Conclusion](docs/10-lessons-learned-and-conclusion.md)**
 
-> Screenshots will be added later to the relevant sections. Screenshot locations will be marked clearly so the actual laboratory evidence can be inserted without changing the documentation structure.
+> Screenshots will be added later to the relevant sections. Screenshot locations are marked clearly so the actual laboratory evidence can be inserted without changing the documentation structure.
 
 ## Key Implementation Flow
 
@@ -142,11 +140,12 @@ The learning focus was intentionally practical rather than attempting to cover e
 - [x] Project scope defined
 - [x] Laboratory architecture defined
 - [x] Server/client environment documented
-- [ ] Detailed implementation chapters
+- [x] Detailed implementation chapters drafted
 - [ ] Screenshots and laboratory evidence
-- [ ] Final testing results
-- [ ] Troubleshooting records
-- [ ] Final documentation review
+- [ ] Actual testing results filled in
+- [x] Troubleshooting guide drafted
+- [x] Lessons learned and conclusion drafted
+- [ ] Final documentation review after screenshots are added
 
 ## Author
 
